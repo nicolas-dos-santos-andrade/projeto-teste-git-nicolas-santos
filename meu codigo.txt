@@ -1,1 +1,2 @@
 Uma nova linha
+outra nova linha para cadastro do usuário
